@@ -1,0 +1,10 @@
+#title{
+	position: absolute;
+    font-size: x-large;
+    margin-top: 3px;
+    background: black;
+    color: whitesmoke;
+    width: 96%;
+    padding: 4px;
+    border-radius: 5px;
+}
